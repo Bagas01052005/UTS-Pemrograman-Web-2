@@ -9,6 +9,7 @@ npm install ws
 
 3. Membuat Server WebSocket (server.js)
 • Buat file server.js dengan kode berikut :
+
 const WebSocket = require("ws");
 const wss = new WebSocket.Server({ port: 8080 });
 
