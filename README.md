@@ -77,4 +77,5 @@ node server.js
 ### • Buka Klien di Browser: Buka index.html di browser untuk melihat notifikasi yang dikirim setiap 5 detik.
 
 # Output
+![gambar](Screenshots/SS.png)
 
